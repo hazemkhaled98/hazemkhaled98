@@ -1,26 +1,25 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome To My Profile</h1>
 
 
- <br/>
- 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./coding.gif" height="290px" align="right" />
+<img  src="./development.gif" height="290px" width="500px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1hMfMuEXzgrp9HjxZQZfHymLSly8Hfgzp/view?usp=sharing)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* **OOP** ,**Algorithms** and **Data Structures** 💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* **OOP**, **Algorithms** and **Data Structures**
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m working on improving my skills in `Back-End Development`
 
-- 💬 Ask me about anything :) 
+- 💬 Feel free to ask me about anything :) 
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: **_LOOK AT THE MIRROR.. THAT'S YOUR COMPETITION_** :fire:
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -55,5 +54,14 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazemkhaled98&theme=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
+## My Statistics
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hazemkhaled98&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemkhaled98&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
