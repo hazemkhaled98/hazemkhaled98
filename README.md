@@ -9,10 +9,6 @@
 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1hMfMuEXzgrp9HjxZQZfHymLSly8Hfgzp/view?usp=sharing)**
 
-- 🔭 I’m currently working on `Something Intresting`.
-
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* **OOP**, **Algorithms** and **Data Structures**
-
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m working on improving my skills in `Back-End Development`
